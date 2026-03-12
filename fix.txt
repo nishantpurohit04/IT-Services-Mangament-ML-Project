@@ -8,3 +8,5 @@ conlict code 2 (Master)
 rebase check.
 
 rebase check 2
+
+rebase check pinkmode
