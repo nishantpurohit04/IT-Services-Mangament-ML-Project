@@ -6,3 +6,5 @@ Conflict code 1.
 conlict code 2 (Master)
 
 rebase check.
+
+rebase check 2
