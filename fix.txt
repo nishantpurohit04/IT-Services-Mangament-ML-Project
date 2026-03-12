@@ -2,3 +2,5 @@ This is a bug-fix file.
 This is an edit.
 
 Conflict code 1.
+
+conflict code 3 (bug-fix)
