@@ -1,3 +1,0 @@
-This is purple mode.
-
-Commit 1
